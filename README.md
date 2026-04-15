@@ -8,6 +8,8 @@ Automatización inteligente para la detección, clasificación y registro de fac
 
 ![Flujo n8n](./assets/flujo.png)
 
+[Ver video de demostración](https://drive.google.com/file/d/1ObJ9rj-kRMP_sjfg6apm8qqpkIn2kyJ4/view?usp=sharing)
+
 ---
 
 ## 🚀 Descripción
