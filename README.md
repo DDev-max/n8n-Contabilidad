@@ -12,13 +12,13 @@ Automatización inteligente para la detección, clasificación y registro de fac
 
 ---
 
-## 🚀 Descripción
+## Descripción
 
 El sistema monitorea continuamente la bandeja de Gmail en busca de correos con facturas, los procesa con inteligencia artificial y los registra de forma estructurada en Google Sheets, evitando duplicados automáticamente.
 
 ---
 
-## 🗂️ Etapas del Flujo
+## Etapas del Flujo
 
 ### Detección de Facturas vía Gmail
 
@@ -76,12 +76,12 @@ Por cada factura registrada exitosamente, el sistema envía un correo de confirm
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 📂 n8n-contabilidad/
 ├──  README.md
-├──  flujo.json           # Exportación del flujo n8n
+├──  flujo.json
 └── 📂 assets/
     ├── flujo.png
     ├──  alerta.png
